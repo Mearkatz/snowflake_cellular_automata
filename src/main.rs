@@ -1,5 +1,3 @@
-use std::fmt::Display;
-
 use ndarray::prelude::*;
 use rand::Rng;
 
